@@ -1,0 +1,22 @@
+{
+  "name": "autocomplete-ionic-framework",
+  "version": "0.1.0",
+  "description": "Ionic Framework element and attribute autocompletions",
+  "main": "./lib/main",
+  "license": "MIT",
+  "repository": "https://github.com/chrisgriffith/autocomplete-ionic-framework",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "devDependencies": {
+    "coffeelint": "^1.9.7",
+    "request": "^2.53.0"
+  }
+}
