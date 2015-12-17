@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-ionic-framework",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Ionic Framework element and attribute autocompletions",
   "main": "./lib/main",
   "license": "MIT",
